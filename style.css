@@ -1,0 +1,27 @@
+body{
+          font-size: 16px;
+          color:black;
+          font-family: sans-serif;
+          line-height: 1.8;
+          margin: 0;
+}
+.topbar{
+          position: fixed;
+          top: 0;
+          left: 0;
+          right: 0;
+          width: 100%;
+          background: white;
+}
+.topbar nav{
+          float: left;
+}
+.topbar nav a{
+          color: black;
+          text-decoration: solid;
+          margin: 0 53px;
+}
+.topbar nav a:hover{
+          color: red;
+          text-decoration: underline;
+}
